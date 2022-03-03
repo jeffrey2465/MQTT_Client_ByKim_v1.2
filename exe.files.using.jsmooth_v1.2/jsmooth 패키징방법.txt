@@ -1,0 +1,6 @@
+관련 링크
+
+https://appsnuri.tistory.com/50
+
+window의 경우 embeeded setting으로 하면 자꾸 오동작함
+classpath로 jar 파일 연결

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<arguments></arguments>
+<classPath>MQTT_Client_ByKim_v1.2.jar</classPath>
+<currentDirectory>.</currentDirectory>
+<embeddedJar>false</embeddedJar>
+<executableName>MQTT_Client_ByKim_v1.2.exe</executableName>
+<iconLocation>MQTT_Client_ByKim_v1.2\resources\icon.jpg</iconLocation>
+<initialMemoryHeap>-1</initialMemoryHeap>
+<mainClassName>kr.ac.hywoman.MQTT_Client_ByKim</mainClassName>
+<maximumMemoryHeap>-1</maximumMemoryHeap>
+<maximumVersion></maximumVersion>
+<minimumVersion></minimumVersion>
+<skeletonName>Windowed Wrapper</skeletonName>
+<skeletonProperties>
+<key>Message</key>
+<value>Java has not been found on your computer. Do you want to download it?</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>URL</key>
+<value>http://www.java.com</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>SingleProcess</key>
+<value>0</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>SingleInstance</key>
+<value>0</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>JniSmooth</key>
+<value>0</value>
+</skeletonProperties>
+<skeletonProperties>
+<key>Debug</key>
+<value>0</value>
+</skeletonProperties>
+</jsmoothproject>
